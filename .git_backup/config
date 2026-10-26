@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = amina-s-1
+[remote "origin"]
+	url = https://github.com/amina-s-1/dbt_learning.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

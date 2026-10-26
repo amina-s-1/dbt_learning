@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+profiles.yml
+.venv/
+.venv_old/
+.env
+target/
+dbt_packages/
+logs/
